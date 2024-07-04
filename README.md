@@ -1,2 +1,2 @@
-# Simple-Traffic-Light-Game-in-VB
-Simple Traffic Light Game in Visual Basic 6.0
+# Visual Basic 6.0 Code
+Here Some project code in visual basic 
